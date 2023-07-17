@@ -10,7 +10,7 @@ transcriptase is a simple desktop app for transcribing audio files using whisper
 
 Built with: 
  - [Tauri](https://tauri.app/)
- - React
+ - [React](https://react.dev/)
  - [whisper.cpp](https://github.com/ggerganov/whisper.cpp)
  - [whisper-rs](https://github.com/m1guelpf/whisper-cli-rs)
 
@@ -18,5 +18,4 @@ Most of the code used for download and transcription are copied from [whisper-cl
 licensed under MIT.
 
 ## license
-
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
