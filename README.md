@@ -3,6 +3,7 @@
 transcriptase is a simple desktop app for transcribing audio files using whisper.
 
 ## installation
+
 - ffmpeg is required for transcriptase to work.
     - macOS: `brew install ffmpeg`
     - linux: follow your distribution's instructions to install
@@ -18,4 +19,5 @@ Most of the code used for download and transcription are copied from [whisper-cl
 licensed under MIT.
 
 ## license
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
